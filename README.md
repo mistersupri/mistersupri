@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ahmad Supriyanto
 
-<!--
-**mistersupri/mistersupri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a **Sofware Engineer** at **Marine Technologies** with a background in **Computer Science** from **Universitas Indonesia**. Passionate about building a better future for my country through technology.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Programming Languages:** (Typescript, Javascript, Python, Java)
+- **Web Development:** (React, Tailwind, Antd, Vue, Zustand, Vite)
+- **Software:** (VSCode, Gitlens, Fork, Github, Gitlab)
+- **Design:** (Figma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Experience
+- **Software Engineer** at **PT. Beruang Maritim Indonesia**
+  - Developed and maintained software applications.
+  - Collaborated with cross-functional teams to deliver projects on time.
+
+## 🌱 Currently Learning
+- Improving my English proficiency for professional communication.
+- Exploring AI and Machine Learning applications.
+
+## 📫 Get in Touch
+- Email: [supri.contact@gmail.com](mailto:supri.contact@gmail.com)
+- Phone: [085156116391](tel:085156116391)
+
+## 🌍 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ahmadsupriyanto/)
+- [Instagram](https://instagram.com/ahmadsupri.id)

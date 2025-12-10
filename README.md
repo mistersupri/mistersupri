@@ -1,7 +1,7 @@
 # Ahmad Supriyanto
 
 ## 👨‍💻 About Me
-I'm a **Sofware Engineer** at **Marine Technologies** with a background in **Computer Science** from **Universitas Indonesia**. Passionate about building a better future for my country through technology.
+I'm a **IT Systems and Technology Governance Specialist** at **Dinas Pendidikan DKI Jakarta** with a background in **Computer Science** from **Universitas Indonesia**. Passionate about building a better future for my country through technology.
 
 ## 🚀 Skills
 - **Programming Languages:** (Typescript, Javascript, Python, Java)
